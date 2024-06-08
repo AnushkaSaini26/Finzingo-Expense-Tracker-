@@ -21,11 +21,10 @@ Daily Expense Tracker System is a web-based application designed to help users m
 - **Database**: MySQL 5.x
 - **User Interface Design**: HTML, AJAX, jQuery, JavaScript
 - **Web Browser Compatibility**: Mozilla Firefox, Google Chrome, Internet Explorer 8, Opera
-- **Software**: XAMPP / WAMP / MAMP / LAMP (any one)
+- **Software**: XAMPP / WAMP / MAMP / LAMP 
 
-## Installation
 
-### Prerequisites
+## Prerequisites
 
 - Web server (e.g., Apache)
 - PHP 5.6 or higher
